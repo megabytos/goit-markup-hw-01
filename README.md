@@ -1,1 +1,1 @@
-# goit-markup-hw-01
+# HTML Markup of WebStudio landing page
